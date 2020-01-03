@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a2671ff8-ab51-4806-a65b-b54d4911d469" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Functions.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
   </component>
   <component name="RecentsManager">
@@ -68,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.FunctionsTest.isWholeNumber">
     <configuration name="FunctionsTest.divideByTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="gitlabprac2" />
       <option name="PACKAGE_NAME" value="" />
@@ -79,8 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FunctionsTest.isWholeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gitlabprac2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FunctionsTest" />
+      <option name="METHOD_NAME" value="isWholeNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FunctionsTest.isWholeNumber" />
         <item itemvalue="JUnit.FunctionsTest.divideByTwo" />
       </list>
     </recent_temporary>
@@ -95,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578069129140</updated>
-      <workItem from="1578069134502" duration="1972000" />
+      <workItem from="1578069134502" duration="2814000" />
     </task>
     <servers />
   </component>
